@@ -19,7 +19,7 @@ public class AIDLColorService extends Service {
         return binder;
     }
 
-    // Create the Binder object implementing the IAIDLColorInterface
+    // Create the Binder object implementing the IAIDLColorInterface.Stub (basically a skeleton)
     private final IAIDLColorInterface.Stub binder = new IAIDLColorInterface.Stub() {
         @Override
         public int getColor() throws RemoteException {
