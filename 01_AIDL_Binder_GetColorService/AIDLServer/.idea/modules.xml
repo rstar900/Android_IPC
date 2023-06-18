@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/01_AIDL_Binder_GetColorService-AIDLServer.iml" filepath="$PROJECT_DIR$/.idea/modules/01_AIDL_Binder_GetColorService-AIDLServer.iml" group="AIDLServer" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/AIDLServer.iml" filepath="$PROJECT_DIR$/.idea/AIDLServer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/app.iml" group="AIDLServer/app" />
+    </modules>
+  </component>
+</project>
